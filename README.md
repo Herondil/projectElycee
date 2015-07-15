@@ -1,5 +1,7 @@
 # Sujet du projet
 
-Voici les consignes, n'hésitez pas à poser des questions directement ici, en commentant le code dans les commits ou en ouvrant des issues.
+Les consignes sont dans sujet.md. 
+
+N'hésitez pas à poser des questions directement ici en ouvrant des issues.
 
 Bonne chance !
