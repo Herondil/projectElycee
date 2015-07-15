@@ -18,9 +18,9 @@ Il s'agit de réaliser un site pour un lycée, avec :
 
 - Des informations sur le lycée.
 
-## Dashboards 
+## Tableaux de bord 
 
-Il y a deux types de comptes, "admin" et "élève"
+Il y a deux types de comptes, "admin" et "élève", et donc deux tableaux de bord correspondants
 
 ### Admins
 
